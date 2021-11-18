@@ -1,2 +1,1 @@
-# Teste-automacao-Gustavo-faria
-# Teste-automacao-Gustavo-faria
+# Teste-automação do curso do professor Professor Gustavo-faria
